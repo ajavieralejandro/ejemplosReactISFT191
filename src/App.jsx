@@ -46,7 +46,7 @@ function App() {
 
           </div>
           <div className="w-25"> 
-                              <h1>Hola mi nombre es : Pedro</h1>
+                              <h1>Hola ahora hay cambios es : Pedro</h1>
     
           </div>
             </div>
